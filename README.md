@@ -4,4 +4,4 @@ Onde ele automatiza as pesquisas do youtube e coloca o vídeo no qual você pedi
 
 Fácil manuseio e fácilidade de interatividade com o bot.
 
-Bot criado apenas para aprendizado e experiencia.
+Bot criado apenas para aprendizado e experiencia!
